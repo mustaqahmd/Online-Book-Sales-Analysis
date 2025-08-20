@@ -12,7 +12,7 @@ The project uses three main tables:
 - **ORDERS** – contains order-level details (order date, book ID, customer ID, total amount)
 - **CUSTOMERS** – includes customer information (name, city, email, etc.)
 
----
+--
 
 ## 🔍 Project Objectives
 
